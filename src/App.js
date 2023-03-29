@@ -1,23 +1,35 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import Navigation from "./components/Navigation";
+import ImageWeb from "./components/ImageWeb3";
+import New from "./components/New";
+import Laptops from "./components/Laptops";
+import Retro from "./components/RetroPSC";
+import Growth from "./components/Growth";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <div className="first-box">
+        <Navigation />
+        <div className="grid-container">
+          <ImageWeb className="grid-child" />
+          <New className="grid-child" />
+        </div>
+      </div>
+
+      <div class="container third-box">
+        <div class="row">
+          <div class="col-lg">
+            <Retro />
+          </div>
+          <div class="col-lg">
+            <Laptops />
+          </div>
+          <div class="col-lg">
+            <Growth />
+          </div>
+        </div>
+      </div>
     </div>
   );
 }
