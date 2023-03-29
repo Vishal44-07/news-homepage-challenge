@@ -3,17 +3,14 @@
   grid-template-columns: 1fr 1fr;
   grid-gap: 20px;
 }
-
 .third-box {
   margin-top: 50px;
   width: 100%;
 }
-
 .first-box {
   padding-left: 200px;
   padding-right: 200px;
 }
-
 .second-grid {
   margin: 0;
 }
