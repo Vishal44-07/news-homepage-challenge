@@ -1,8 +1,8 @@
 import React from "react";
 import imgThree from "../assets/images/image-gaming-growth.jpg";
 
-let h = 180;
-let w = 200;
+let h = 170;
+let w = 140;
 
 function Growth() {
   return (
