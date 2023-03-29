@@ -1,8 +1,8 @@
 import React from "react";
 import imgOne from "../assets/images/image-retro-pcs.jpg";
 
-let h = 180;
-let w = 200;
+let h = 170;
+let w = 140;
 
 function Retro() {
   return (
