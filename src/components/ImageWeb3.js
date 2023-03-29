@@ -4,7 +4,7 @@ function ImageWeb() {
   return (
     <div>
       <div>
-        <img width={1000} height={400} src={webimage} alt="A Web 3"></img>
+        <img width={800} height={400} src={webimage} alt="A Web 3"></img>
       </div>
       <div className="fte-conatiner">
         <div class="container ">
