@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/news-homepage-challenge/static/css/main.bfa35415.css",
+    "main.js": "/news-homepage-challenge/static/js/main.ffdcae1e.js",
+    "static/js/787.2ec106f5.chunk.js": "/news-homepage-challenge/static/js/787.2ec106f5.chunk.js",
+    "static/media/image-web-3-desktop.jpg": "/news-homepage-challenge/static/media/image-web-3-desktop.988d05305d18140f188c.jpg",
+    "static/media/image-retro-pcs.jpg": "/news-homepage-challenge/static/media/image-retro-pcs.4ecb8a36b05f012297a6.jpg",
+    "index.html": "/news-homepage-challenge/index.html",
+    "main.bfa35415.css.map": "/news-homepage-challenge/static/css/main.bfa35415.css.map",
+    "main.ffdcae1e.js.map": "/news-homepage-challenge/static/js/main.ffdcae1e.js.map",
+    "787.2ec106f5.chunk.js.map": "/news-homepage-challenge/static/js/787.2ec106f5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfa35415.css",
+    "static/js/main.ffdcae1e.js"
+  ]
+}
